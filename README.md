@@ -24,6 +24,7 @@
 		
 		
 <!--封装选择器类-->
+		<!--获取所有的-->
 		var get = function ( selector, results ) {
 			results = results || [];
 			//                     1          2        3       4
